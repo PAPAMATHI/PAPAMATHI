@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/img/banniere.jfif" alt="Banniere Mathieu Jds" width="1000"/>
+    <img src="assets/img/banniere.jfif" alt="Banniere Mathieu Jds" width="100%"/>
 </p>
 
 <h2 align="center">Hi, I'm Mathieu DA SILVA (Alias Orm)</h2>
@@ -17,8 +17,14 @@
 - 📫 How to reach me: mathieujdscontact@gmail.com
 
 
-### Connect with me
+### Connect with me <img src="assets/img/handshake.gif" alt="Banniere Mathieu Jds" width="70"/>
 ---
+<p align="left">  
+<a href="https://twitter.com/JdsMathieu" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mathieu Jds" height="50" width="60" /></a>  
+<a href="https://linkedin.com/in/mathieu-da-silva-0b0594190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mathieu Jds" height="50" width="60" /></a>  
+<a href="https://www.youtube.com/channel/UCh5uDateq4A-0oXs2UbvSFw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mathieu Jds" height="50" width="60" /></a>  
+</p>
 
 
 <!--
