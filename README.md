@@ -12,7 +12,7 @@
 ---
 - 🔭 I’m currently working in the IT department of the Orléans University.
 - 🌱 I’m currently learning web development at the orleans university. 
-- 👯 I’m currently working in collaborate on [Wiki-Tech](https://wiki-tech.io/) with [PAPAMICA](https://github.com/PAPAMICA)
+- 👯 I’m currently working in collaborate on <a href="https://wiki-tech.io/" target="blank">Wiki-Tech</a> with [PAPAMICA](https://github.com/PAPAMICA)
 - 💬 Ask me about **Web Development**, **3D Modeling**
 - 📫 How to reach me: mathieujdscontact@gmail.com
 
