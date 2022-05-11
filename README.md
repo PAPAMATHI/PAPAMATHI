@@ -18,11 +18,11 @@
 - 💬 Ask me about **Web Development**, **3D Modeling**
 - 📫 How to reach me: mathieujdscontact@gmail.com
 
-<br><br>
+<br>
 
 ## Connect with me <img src="assets/img/handshake.gif" alt="Banniere Mathieu Jds" width="70"/>
 ---
-<p align="left">  
+<p align="center">  
 <a href="https://twitter.com/JdsMathieu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mathieu Jds" height="50" width="60" />
 </a>  
@@ -34,7 +34,7 @@
 </a>  
 </p>
 
-<br><br>
+<br>
 
 ## Skills <img align="center" src="https://media4.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47uj3lhgljnz7m3aozkil043pv5tlchvg74wz0jx30&rid=giphy.gif&ct=s" alt="Mathieu Jds" height="80" width="80" margin-left="50px"/> 
 ---
@@ -66,7 +66,7 @@
 </a>
 </p>  
 
-<br><br>
+<br>
 
 ## Operating System <img align="center" src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47o85shd30d0qgkajffwr0b06zj4dt9onfr4vnehqk&rid=giphy.gif&ct=s" alt="Mathieu Jds" height="50" width="60" /> 
 
