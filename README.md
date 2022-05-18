@@ -11,7 +11,9 @@
 <br>
 
 ## Aboute Me <img align="center" src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="Mathieu Jds" height="50" width="60" />
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
 - 🔭 I’m currently working in the IT department of the Orléans University.
 - 🌱 I’m currently learning web development at the orleans university. 
 - 👯 I’m currently working in collaborate on <a href="https://wiki-tech.io/" target="blank"> Wiki-Tech </a> with <a href="https://github.com/PAPAMICA" target="blank"> PAPAMICA </a>.
@@ -21,72 +23,38 @@
 <br>
 
 ## Connect with me <img src="assets/img/handshake.gif" alt="Banniere Mathieu Jds" width="70"/>
----
+ 
+
 <p align="center">  
-<a href="https://twitter.com/JdsMathieu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mathieu Jds" height="50" width="60" />
-</a>  
-<a href="https://linkedin.com/in/mathieu-da-silva-0b0594190" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mathieu Jds" height="50" width="60" />
-</a>  
-<a href="https://www.youtube.com/channel/UCh5uDateq4A-0oXs2UbvSFw" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mathieu Jds" height="50" width="60" />
-</a>  
+<br>
+<a href="https://twitter.com/JdsMathieu"><img src="https://img.shields.io/badge/@MathieuJds__-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://linkedin.com/in/mathieu-da-silva-0b0594190"><img src="https://img.shields.io/badge/mathieu_da_silva-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCh5uDateq4A-0oXs2UbvSFw"><img src="https://img.shields.io/badge/MATHIEUJDS-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<br>
+
 
 ## Skills <img align="center" src="https://media4.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47uj3lhgljnz7m3aozkil043pv5tlchvg74wz0jx30&rid=giphy.gif&ct=s" alt="Mathieu Jds" height="80" width="80" margin-left="50px"/> 
----
+
 <br>
-<p align="center"> 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-
-
-
-<!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-</a>
-<a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="60" height="60"/> 
-</a>
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="60" height="60"/> 
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" alt="angular" width="60" height="60"/> 
-</a> -->
-</p>  
+<p align="center">  
+<img src="https://img.shields.io/badge/-JavaScript-FAFD35?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/-Python-35FDD6?style=for-the-badge&logo=Python">
+<img src="https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript">
+<img src="https://img.shields.io/badge/-MySQL-FF9D46?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Google%20Cloud-FF46B1?style=for-the-badge&logo=google-cloud">
+<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab">
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
+</p>
 
 <br>
 
@@ -96,24 +64,16 @@
 <br>
 
 <p align="center">
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://c.clc2l.com/t/w/i/windows-11-JJBp_C.png" alt="angular" width="60" height="60"/> 
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.gif-maniac.com/gifs/50/49797.gif" alt="angular" width="60" height="60"/> 
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/M/mac-os-x-logo-C3B37FBB68-seeklogo.com.png" alt="angular" width="60" height="60"/> 
-</a>
+<img src="https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white">
+<img src="https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
 </p>
-
-<!-- ================== TEST ================== -->
 
 ## My GitHub Stats <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472sy191foql0okctbjdxbwd3wcywx85il2swgzble&rid=giphy.gif&ct=s" alt="angular" width="40" height="40"/> 
 </a>
 
 <br>
-<br>
+
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PAPAMATHI&show_icons=true&locale=en&layout=compact" alt="papamathi" /></p>  
