@@ -10,7 +10,7 @@
 
 <br>
 
-## Aboute Me <img align="center" src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="Mathieu Jds" height="50" width="60" />
+## About Me <img align="center" src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="Mathieu Jds" height="50" width="60" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
