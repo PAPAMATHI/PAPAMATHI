@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
-- 🔭 I’m currently working in the IT department of the Orléans University.
+- 🔭 I'm currently working as a system administrator at HaiSoft
 - 🌱 I’m currently learning web development at the orleans university. 
 - 👯 I’m currently working in collaborate on <a href="https://wiki-tech.io/" target="blank"> Wiki-Tech </a> with <a href="https://github.com/PAPAMICA" target="blank"> PAPAMICA </a>.
 - 💬 Ask me about **Web Development**, **3D Modeling**
