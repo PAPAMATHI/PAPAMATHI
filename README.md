@@ -16,7 +16,7 @@
 
 
 - 🔭 I'm currently working as a system administrator at HaiSoft
-- 🌱 I’m currently learning web development at the orleans university. 
+- 🌱 I’m currently learning DevOps, JavaScript and Python
 - 👯 I’m currently working in collaborate on <a href="https://wiki-tech.io/" target="blank"> Wiki-Tech </a> with <a href="https://github.com/PAPAMICA" target="blank"> PAPAMICA </a>.
 - 💬 Ask me about **Web Development**, **3D Modeling**
 - 📫 How to reach me: contact@mathieudasilva.com
